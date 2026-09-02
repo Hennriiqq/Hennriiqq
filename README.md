@@ -14,7 +14,7 @@ com prototipação de interfaces no Figma.
             title="linkedin" 
             width="30px" 
             style="padding-right: 10px;" 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank"/>
           Carlos Henrique 
     </a>
 </p>
