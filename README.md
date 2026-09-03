@@ -30,8 +30,7 @@ com prototipação de interfaces no Figma.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>HTML5
-
+/>
 <img 
     align="left" 
     alt="CSS" 
@@ -39,8 +38,7 @@ com prototipação de interfaces no Figma.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>CSS3
-
+/>
 <img 
     align="left" 
     alt="JavaScript" 
@@ -48,8 +46,7 @@ com prototipação de interfaces no Figma.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>JavaScript
-
+/>
 <img 
     align="left" 
     alt="React"
@@ -57,8 +54,7 @@ com prototipação de interfaces no Figma.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>React
-
+/>
 <img 
     align="left" 
     alt="Next.js" 
@@ -75,8 +71,7 @@ com prototipação de interfaces no Figma.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/> Boostrap
-
+/>
 <img 
     align="left" 
     alt="Tailwind" 
@@ -84,8 +79,7 @@ com prototipação de interfaces no Figma.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/> Tailwind
-
+/>
 <img 
     align="left" 
     alt="Git" 
@@ -93,8 +87,7 @@ com prototipação de interfaces no Figma.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/> Git
-
+/>
 
 <br/>
 <br/>
