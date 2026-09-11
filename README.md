@@ -2,9 +2,9 @@
 
 **`Dev Front-End`**
 
-Estudante de Análise e Desenvolvimento de Sistemas (3º período), atualmente me especializando em Front-end e indo em
-formação para Back-end. Experiência prática com React e JavaScript (ES6+), projetos reais
-com prototipação de interfaces no Figma.
+Front-end Developer. <br/>
+Estudante de Análise e Desenvolvimento de Sistemas (3º período), atualmente me especializando em Front-end (React, Next.js, JavaScript ES6+) e me preparando para migrar também para Back-end (Node.js, SQL). Já entreguei projetos reais para clientes — landing pages e aplicações web com integração de APIs REST — do protótipo no Figma à publicação.
+
 
 <p align="left">
     <a href="https://www.linkedin.com/in/carlos-henrique-leite-b5216236a/">
@@ -47,6 +47,15 @@ com prototipação de interfaces no Figma.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
+<img  
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    />
 <img 
     align="left" 
     alt="React"
